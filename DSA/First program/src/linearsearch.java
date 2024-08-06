@@ -1,4 +1,4 @@
-public class binary {
+public class linearsearch {
 //linear search
     public static void main(String[] args) {
         int[] nums = {45, 18, 7, 10, 17};
